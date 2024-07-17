@@ -141,8 +141,7 @@ During the internship, we faced several challenges, such as API integration issu
 
 ## 🤝 Connect with Me
 
-LinkedIn: www.linkedin.com/in/anant-chovatiya
+LinkedIn: https://www.linkedin.com/in/harshil-kothiya/
 
-Email: anantchovatiya@gmail.com
+Email: harshilkothiya5@gmail.com
 
-Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
